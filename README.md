@@ -1,10 +1,5 @@
 
-    ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
-    ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-    ███████║█████╗  ██║     ██║     ██║   ██║
-    ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-    ██║  ██║███████╗███████╗███████╗╚██████╔╝
-    ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
+# Hi, I'm Daniel 👋
 
 BSc Computational & Data Science student at FHGR Chur, currently working as a Data Scientist/Software Engineer. I like building systems that learn.
 
