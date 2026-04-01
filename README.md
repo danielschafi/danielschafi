@@ -24,11 +24,3 @@ BSc Computational & Data Science student at FHGR Chur, currently working as a Da
 
 <br/>
 
-## Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danielschafi&show_icons=true&hide_border=true&count_private=true&title_color=111827&text_color=374151&icon_color=6366f1&bg_color=ffffff" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielschafi&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff" />
-</div>
-
-<br/>
