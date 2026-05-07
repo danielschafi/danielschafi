@@ -3,6 +3,8 @@
 
 BSc Computational & Data Science student at FHGR Chur, currently working as a Data Scientist/Software Engineer. I like building systems that learn.
 
+Currently mainly working on my Bachelors Thesis about solving the Traveling Salesman Problem using Neural Networks.
+
 <br/>
 
 ## About
